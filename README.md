@@ -36,15 +36,6 @@ Cada entrega será realizada a partir da criação de uma **tag** no repositóri
 
 → [Voltar ao topo](#topo)
 
-<span id="backlogs">
-
-## :dart: Backlog 
-
-<p align="center"> <img src="./Imagens_md/README.png" /></p>
-<p align="center"> <img src="./Imagens_md/03. BACKLOG DAS SPRINTS.png" /></p>
-
-→ [Voltar ao topo](#topo)
-
 <span id="user-stories">
 
 ## :mag: User Stories
