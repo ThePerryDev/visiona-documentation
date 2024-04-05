@@ -5,8 +5,7 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlog</a>  |  
-    <a href="#user-stories">User Stories</a>  |  
-    <a href="#prototipo">Protótipo</a>  |  
+    <a href="#user-stories">User Stories</a>  |    
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>  |  
     <a href="#final">Apresentação Final</a>
@@ -27,12 +26,17 @@ A partir da apresentação do pedido dado pela empresa Visiona, a solução apre
 Cada entrega será realizada a partir da criação de uma **tag** no repositório (Bikepass), assim como a criação de branchs específicas para cada Sprint a fim de controlar cada etapa do projeto. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico | Link da Apresentação
 |:------:|:----------:|:-------------|:-------------------------------------------------:|:-------------------------------------------------:|
-| 01 | De 11/03/24 a 03/04/24 | :heavy_check_mark: Finalizado| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-01)| [SPRINT 01](https://youtu.be/)|
-| 02 | De 02/10/23 a 25/10/23 | :heavy_check_mark: Não iniciado| Não iniciado| Não iniciado|
-| 03 | De 30/10/23 a 22/11/23 | :heavy_check_mark: Não iniciado| Não iniciado| Não iniciado|
+| 01 | De 11/03/24 a 03/04/24 | :heavy_check_mark: Finalizado| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-01)| [SPRINT 01](https://youtu.be/4JCYQw8IKzM)|
+| 02 | De 05/04/24 a 08/05/24 | :heavy_check_mark: Não iniciado| Não iniciado| Não iniciado|
+| 03 | De 14/15/24 a 12/06/24 | :heavy_check_mark: Não iniciado| Não iniciado| Não iniciado|
 
 
+<span id="backlogs">
 
+## :dart: Backlog 
+
+<p align="center"> <img src="./Imagens_md/README.png" /></p>
+<p align="center"> <img src="./Imagens_md/03. BACKLOG DAS SPRINTS.png" /></p>
 
 → [Voltar ao topo](#topo)
 
