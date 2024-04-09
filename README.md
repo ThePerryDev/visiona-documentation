@@ -73,6 +73,8 @@ A seguir, iniciou-se o trabalho de desenvolvimento do protótipo na plataforma f
 
 [Confira o protótipo navegável na plataforma FIGMA](https://www.figma.com/proto/QdEmUPrhT49XvnToH1PQrl/Visiona-Espacial-Dashboard?type=design&node-id=1-2&t=YEoMTNcHwZBQqTsB-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
+→ [Voltar ao topo](#topo)
+
 ### Criação das Tabelas e Base do Front-End
 Com toda a pesquisa inicial desenvolvida, somado ao modelo do banco de dados fornecido pelo cliente e ao wireframe proposto, foram desenvolvidas as tabelas de USERS, com a intenção de gestores registrarem novos usuários no sistema, juntamente com a Base do Front-End, de forma que o cliente possa visualizar, mesmo que de forma bastante simplificada, como o sistema da plataforma da empresa irá funcionar.
 
