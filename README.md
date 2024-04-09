@@ -51,7 +51,7 @@ Está sendo estudado o banco de dados fornecido pelo cliente, e além disso foi 
 
 Como proposta para solucionar o projeto requisitado de uma plataforma web para melhor gerenciamento de projetos de mapeamento e funcionários para a empresa Visiona, sendo essa administração facilitada através de tabelas para melhor leitura sobre as informações do mesmo, foi desenvolvido o Wireframe a seguir, com a ligação das telas propostas no projeto.
 
-<p align="center"><img src="./Imagens_md/wireframe1.png" /><p>
+<p align="center"><img src="./Imagens_md/wireframesp1.png" /><p>
 
 
 
