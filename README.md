@@ -12,7 +12,7 @@
 
 O projeto constituí na construção de uma plataforma web que facilite a administração de projetos de mapeamento e de funcionários para a empresa Visiona Espacial. Com base nessa estruturação a sprint 02 consistiu em horas voltadas para o desenvolvimento front-end do projeto, aprimoramento do backend e criação dos gráficos fazendo uso da ferramenta Power BI
 
-APRESENTAÇÃO DA SPRINT 02 AINDA NÃO DISPONÍVEL
+[LINK DE APRESENTAÇÃO DA SPRINT 02](https://youtu.be/ntwJQ-kdhxI)
 
 <span id="objetivos">
     
