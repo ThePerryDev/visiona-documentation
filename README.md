@@ -19,7 +19,7 @@ A partir da apresentação do pedido dado pela empresa Visiona, a solução apre
 
 > _Projeto baseado na metodologia ágil, utilizando o Framework SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
 
-:pushpin: Status do Projeto: **Em Andamento** :on:
+:pushpin: Status do Projeto: [**Em Andamento**](https://github.com/ThePerryDev/satelite.git) :on:
 
 ### Entregas de Sprints
 
