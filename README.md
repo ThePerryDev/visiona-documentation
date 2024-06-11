@@ -28,8 +28,7 @@ Cada entrega será realizada a partir da criação de uma **tag** no repositóri
 |:------:|:----------:|:-------------|:-------------------------------------------------:|:-------------------------------------------------:|
 | 01 | De 11/03/24 a 03/04/24 | :heavy_check_mark: Finalizado| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-01)| [SPRINT 01](https://youtu.be/4JCYQw8IKzM)|
 | 02 | De 05/04/24 a 08/05/24 | :heavy_check_mark: Finalizado| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-02)| [SPRINT 02](https://youtu.be/ntwJQ-kdhxI)|
-| 03 | De 14/05/24 a 12/06/24 | :heavy_check_mark: Em andamento| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-03)
-| Não iniciado|
+| 03 | De 14/05/24 a 12/06/24 | :heavy_check_mark: Em andamento| [Ver relatório](https://github.com/ThePerryDev/visiona-documentation/tree/sprint-03) | Não iniciado|
 
 
 <span id="backlogs">
