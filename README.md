@@ -1,6 +1,6 @@
 <br id="topo">
 
-<p align="center"> <img src="./Imagens_md/sp2.png" /></p>
+<p align="center"> <img src="./Imagens_md/sp3.png" /></p>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -10,19 +10,19 @@
 </p>
 
 
-O projeto constituí na construção de uma plataforma web que facilite a administração de projetos de mapeamento e de funcionários para a empresa Visiona Espacial. Com base nessa estruturação a sprint 02 consistiu em horas voltadas para o desenvolvimento front-end do projeto, aprimoramento do backend e criação dos gráficos fazendo uso da ferramenta Power BI
+O projeto constituí na construção de uma plataforma web que facilite a administração de projetos de mapeamento e de funcionários para a empresa Visiona Espacial. Com base nessa estruturação a sprint 03 consistiu em horas voltadas para o desenvolvimento front-end do projeto, aprimoramento do backend e criação dos gráficos fazendo uso da ferramenta Power BI
 
-[LINK DE APRESENTAÇÃO DA SPRINT 02](https://youtu.be/ntwJQ-kdhxI)
 
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
 Os requisitos (funcionais e não funcionais) abrangidos por essa sprint são:
-- RF 3: Página de cadastro em desenvolvimento
-- RF 5: Gráficos para análise em desenvolvimento
-- RF 6: Página de funcionários em desenvolvimento
+- RF 3: Página de cadastro
+- RF 6: Página de funcionários
+- RF 7: Página para monitoramento das estatísticas
 - RF 13: Aprimoramento backend
 - RF 14: Compontes e páginas fazendo uso das ferramentas requisitadas
+- RF 15: Armazenamento das informações no SGBD MongoDB
 - RF 16: Autenticação do usuário
 
 
@@ -43,14 +43,14 @@ Diversas alterações foram feita no backend para se adequar de melhor forma ao 
 
 ### Desenvolvimento de diversas páginas do projeto
 
-Como descrito essa sprint teve foco no desenvolvimento do frontend do projeto, fazendo uso do modelo de compontentização.
+Pelo fato dessa sprint ter como foco principal o frontend, fizemos algumas correções de cores, tamanhos e fontes das páginas.
 
 
 → [Voltar ao topo](#topo)
 
 ### Desenvolvimento dos gráficos
 
-Essa sprint também teve como objetivo o desenvolvimento dos gráficos onde as informações sobre os projetos serão apresentados, todos os gráficos forma feito através da plataforma Power BI
+Para uma melhor visualização do conteúdo, fizemos uma alteração nos gráficos que antes eram feitos através do Power BI e agora são feitos pelo Material UI.
 
 
 → [Voltar ao topo](#topo)
@@ -59,7 +59,7 @@ Essa sprint também teve como objetivo o desenvolvimento dos gráficos onde as i
  <span id="metricas">
      
 ## :chart_with_upwards_trend: Métricas do time
-Em prol de um melhor aproveitamento do tempo disponível durante a primeira sprint o time se dividiu em atividades como: planejamento, brieffing, estruturação do GitHub, criação do product backlog, sprint backlog, pesquisa e elaboração do design e da Identidade Visual, criação do wireframe e layout do site, desenvolvimento das tabelas resultantes do modelo do banco de dados, assim como estruturação da equipe para gestão das horas com o gráfico burndown.
+Em prol de um melhor aproveitamento do tempo disponível durante a terceira sprint o time se dividiu em atividades como: piriri pororo, assim como estruturação da equipe para gestão das horas com o gráfico burndown.
     
 <p align="center"><img src="./Imagens_md/burndownsp2.png" /></p>
     
